@@ -1,4 +1,4 @@
 # lab_03_assignment
 
-# name-CHIRAG JAIN
-# ROLL NUMBER-E22BCAU0016
+# chirag jain
+# roll number-e22bcau0016
